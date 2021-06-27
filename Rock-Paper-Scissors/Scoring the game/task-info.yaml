@@ -154,6 +154,12 @@ files:
     if __name__ == '__main__':
         RPSTest("rps.game").run_tests()
   learner_created: false
+- name: rating.txt
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/78/stages/434/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Sun, 27 Jun 2021 19:54:18 UTC
 record: -1
